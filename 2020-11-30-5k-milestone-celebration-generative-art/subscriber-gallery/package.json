@@ -14,7 +14,7 @@
     "fuse.js": "^6.4.3",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "latest"
+    "react-scripts": "5.0.0"
   },
   "browserslist": {
     "production": [
